@@ -1,5 +1,11 @@
 Change log
 ==========
+### v2023.7.52 (13 jul 2023)
+- Ensure the wheel is uploaded with the release to PyPI
+
+### v2023.7.51 (13 jul 2023)
+- Convert ``APINames`` and ``TorrentStatus`` to ``StrEnum`` and ``TrackerStatus`` to ``IntEnum`` (#267)
+
 ### v2023.6.50 (19 jun 2023)
 - Advertise support for qBittorrent v4.5.4
 
